@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "9471948429c23cc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e5e7706b708ff02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89131568c2c0c3d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7efde2ef4410d361",
+    "type": "split",
+    "children": [
+      {
+        "id": "0381f93038258607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5264bfce54c1d421",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2a4287c7eb95fd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "адве",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3701d92111c07409",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0363ce5bb355b2c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a56db465b4f7486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f250d89abf56048a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fb121252377080e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b395a69520cb3146",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "862c8d92c493fc51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e89131568c2c0c3d",
+  "lastOpenFiles": [
+    "Это самая глубокая пещера в Minecraft.md",
+    "Видосы/[YT] [LIST] Про Minecraft.md",
+    "Аниме/Made in Abyss.md",
+    "Excalidraw/2d-1d array.md",
+    "Микро вики/Factorio.md",
+    "Микро вики/Markdown.md",
+    "Микро вики/Программирование.md",
+    "Микро вики/Алгоритмы/2D-массив в 1D-массив.md",
+    "Микро вики/Minecraft.md",
+    "Микро вики/Obsidian.md",
+    "Языки разметки.md",
+    "Языки программирования.md",
+    "Микро вики/Видео игры.md",
+    "Микро вики/Алгоритмы.md",
+    "Микро вики/Алгоритмы",
+    "Без названия",
+    "Видосы/[YT] [LIST] Про тулзы.md",
+    "Welcome.md",
+    "532d3659db86ed0d86fcc57ef38acc45.avif",
+    "Без названия 1.canvas",
+    "Без названия.md",
+    "Без названия.canvas",
+    "Excalidraw/Drawing 2024-06-23 08.53.52.excalidraw.md",
+    "Микро вики/Аниме.md",
+    "Микро вики",
+    "Аниме",
+    "Без названия 1.md",
+    "Видосы",
+    "Excalidraw",
+    "2024-06-23.md"
+  ]
+}

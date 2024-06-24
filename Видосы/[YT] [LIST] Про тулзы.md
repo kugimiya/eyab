@@ -1,0 +1,3 @@
+[Obsidian для НЕтехнарей: Как начать вести заметки](https://www.youtube.com/watch?v=zYlDnmlo39Q) [[Obsidian]]
+[Почему заметки имба](https://www.youtube.com/watch?v=h0F1VUWCa4M) [[Obsidian]]
+
