@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bc91ed530fd28a75",
+        "id": "788156effd89ad61",
         "type": "tabs",
         "children": [
           {
-            "id": "ba49a881303abe79",
+            "id": "8028223b3646b08b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Микровики/Видео игры/Minecraft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bc127797d4b97d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Микровики/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Микровики/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Микровики/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Микровики/Obsidian.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +138,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bc127797d4b97d8",
+  "active": "8028223b3646b08b",
   "lastOpenFiles": [
+    "Выводы после срачей/Выводы после срачей.md",
+    "Выводы после срачей",
+    "Микровики/Видео игры/Minecraft.md",
+    "имиджборд.md",
+    "Микробложек/ИПР 06.24 - 03.25.md",
+    "Микробложек/useStore в бигтехе.md",
+    "Микробложек/Встроенный в Node.JS тест-раннер.md",
+    "Микровики/Obsidian.md",
     "Микровики/Программирование/Язык программирования.md",
     "Микровики/Программирование/Языки разметки/Язык разметки.md",
     "Микровики/Программирование/Языки разметки/Markdown.md",
@@ -170,37 +157,30 @@
     "Микровики/Видео игры/Beam.NG.md",
     "Микровики/Видео игры/Euro Truck Simulator.md",
     "Микровики/Видео игры/Factorio.md",
-    "Микровики/Видео игры/Minecraft.md",
     "Видосы/Про тулзы.md",
     "Микровики/Видео игры",
     "Видосы/Про игры.md",
     "Это самая глубокая пещера в Minecraft.md",
-    "Микробложек/ИПР 06.24 - 03.25.md",
     "Мысли/27.06.2024.md",
-    "Микробложек/Встроенный в Node.JS тест-раннер.md",
     "Микробложек/assets/Pasted image 20240627202523.png",
-    "Микробложек/useStore в бигтехе.md",
     "Микробложек/assets",
     "Микробложек/assets/Pasted image 20240627202652.png",
     "Микробложек/assets/Pasted image 20240627202631.png",
     "Микровики/Программирование/Программирование.md",
     "Микровики/Аниме/Made in Abyss.md",
     "Excalidraw/2d-1d array.md",
-    "Микровики/Obsidian.md",
     "Middle.md",
     "ИПР.md",
     "Микробложек",
     "Микровики/Аниме/Аниме.md",
     "Микровики/Программирование/Алгоритмы/Алгоритмы.md",
     "Микровики/Программирование",
-    "Видосы/Про игры/Это самая глубокая пещера в Minecraft.md",
     "Видосы/Про игры",
     "Мысли",
     "Микровики/Программирование/Алгоритмы",
     "532d3659db86ed0d86fcc57ef38acc45.avif",
     "Без названия 1.canvas",
     "Без названия.canvas",
-    "Микровики",
-    "Микровики/Аниме"
+    "Микровики"
   ]
 }
