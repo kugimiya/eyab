@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6e5e7706b708ff02",
+        "id": "bc91ed530fd28a75",
         "type": "tabs",
         "children": [
           {
-            "id": "e89131568c2c0c3d",
+            "id": "ba49a881303abe79",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Микровики/Видео игры/Minecraft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bc127797d4b97d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Микровики/Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Микровики/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Микровики/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Микровики/Obsidian.md"
+              }
             }
           }
         ]
@@ -138,38 +159,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e89131568c2c0c3d",
+  "active": "3bc127797d4b97d8",
   "lastOpenFiles": [
-    "Языки разметки.md",
-    "Языки программирования.md",
-    "Excalidraw/2d-1d array.md",
-    "Микро вики/Obsidian.md",
-    "Микро вики/Minecraft.md",
-    "Микро вики/Markdown.md",
-    "Микро вики/Factorio.md",
-    "Микро вики/Программирование.md",
-    "Микро вики/Видео игры.md",
-    "Микро вики/Аниме.md",
-    "Микро вики/Алгоритмы.md",
-    "Микро вики/Алгоритмы/2D-массив в 1D-массив.md",
-    "Видосы/Про игры.md",
+    "Микровики/Программирование/Язык программирования.md",
+    "Микровики/Программирование/Языки разметки/Язык разметки.md",
+    "Микровики/Программирование/Языки разметки/Markdown.md",
+    "Микровики/Программирование/Языки разметки",
+    "Микровики/Нетсталкинг.md",
+    "Микровики/Видео игры/Видео игры.md",
+    "Микровики/Видео игры/Beam.NG.md",
+    "Микровики/Видео игры/Euro Truck Simulator.md",
+    "Микровики/Видео игры/Factorio.md",
+    "Микровики/Видео игры/Minecraft.md",
     "Видосы/Про тулзы.md",
-    "Аниме/Made in Abyss.md",
-    "Мысли/27.06.2024.md",
-    "Мысли",
+    "Микровики/Видео игры",
+    "Видосы/Про игры.md",
     "Это самая глубокая пещера в Minecraft.md",
-    "Микро вики/Алгоритмы",
-    "Welcome.md",
+    "Микробложек/ИПР 06.24 - 03.25.md",
+    "Мысли/27.06.2024.md",
+    "Микробложек/Встроенный в Node.JS тест-раннер.md",
+    "Микробложек/assets/Pasted image 20240627202523.png",
+    "Микробложек/useStore в бигтехе.md",
+    "Микробложек/assets",
+    "Микробложек/assets/Pasted image 20240627202652.png",
+    "Микробложек/assets/Pasted image 20240627202631.png",
+    "Микровики/Программирование/Программирование.md",
+    "Микровики/Аниме/Made in Abyss.md",
+    "Excalidraw/2d-1d array.md",
+    "Микровики/Obsidian.md",
+    "Middle.md",
+    "ИПР.md",
+    "Микробложек",
+    "Микровики/Аниме/Аниме.md",
+    "Микровики/Программирование/Алгоритмы/Алгоритмы.md",
+    "Микровики/Программирование",
+    "Видосы/Про игры/Это самая глубокая пещера в Minecraft.md",
+    "Видосы/Про игры",
+    "Мысли",
+    "Микровики/Программирование/Алгоритмы",
     "532d3659db86ed0d86fcc57ef38acc45.avif",
     "Без названия 1.canvas",
-    "Без названия.md",
     "Без названия.canvas",
-    "Excalidraw/Drawing 2024-06-23 08.53.52.excalidraw.md",
-    "Микро вики",
-    "Аниме",
-    "Без названия 1.md",
-    "Видосы",
-    "Excalidraw",
-    "2024-06-23.md"
+    "Микровики",
+    "Микровики/Аниме"
   ]
 }
