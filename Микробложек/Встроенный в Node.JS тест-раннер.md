@@ -1,4 +1,4 @@
-В 20й версии ноды нам принесли стабильный [[тест-раннер]]. Вот анонс, например: [Node.js — Node.js 20 is now available!](https://nodejs.org/en/blog/announcements/v20-release-announce#stable-test-runner)
+В 20й версии [[Node.JS]] нам принесли стабильный [[тест-раннер]]. Вот анонс, например: [Node.js — Node.js 20 is now available!](https://nodejs.org/en/blog/announcements/v20-release-announce#stable-test-runner)
 
 Ящитаю, что это своего рода gamechanger:
 - больше не надо ставить [[Jest]], [[Mocha]], [[Chai]], etc
