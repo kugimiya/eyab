@@ -11,12 +11,8 @@
             "id": "e89131568c2c0c3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Микро вики/Видео игры.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Микро вики/Видео игры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Микро вики/Видео игры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Микро вики/Видео игры.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,30 +140,31 @@
   },
   "active": "e89131568c2c0c3d",
   "lastOpenFiles": [
-    "Микро вики/Factorio.md",
-    "Это самая глубокая пещера в Minecraft.md",
-    "Видосы/[YT] [LIST] Про Minecraft.md",
-    "Аниме/Made in Abyss.md",
-    "Excalidraw/2d-1d array.md",
-    "Микро вики/Markdown.md",
-    "Микро вики/Программирование.md",
-    "Микро вики/Алгоритмы/2D-массив в 1D-массив.md",
-    "Микро вики/Minecraft.md",
-    "Микро вики/Obsidian.md",
     "Языки разметки.md",
     "Языки программирования.md",
+    "Excalidraw/2d-1d array.md",
+    "Микро вики/Obsidian.md",
+    "Микро вики/Minecraft.md",
+    "Микро вики/Markdown.md",
+    "Микро вики/Factorio.md",
+    "Микро вики/Программирование.md",
     "Микро вики/Видео игры.md",
+    "Микро вики/Аниме.md",
     "Микро вики/Алгоритмы.md",
+    "Микро вики/Алгоритмы/2D-массив в 1D-массив.md",
+    "Видосы/Про игры.md",
+    "Видосы/Про тулзы.md",
+    "Аниме/Made in Abyss.md",
+    "Мысли/27.06.2024.md",
+    "Мысли",
+    "Это самая глубокая пещера в Minecraft.md",
     "Микро вики/Алгоритмы",
-    "Без названия",
-    "Видосы/[YT] [LIST] Про тулзы.md",
     "Welcome.md",
     "532d3659db86ed0d86fcc57ef38acc45.avif",
     "Без названия 1.canvas",
     "Без названия.md",
     "Без названия.canvas",
     "Excalidraw/Drawing 2024-06-23 08.53.52.excalidraw.md",
-    "Микро вики/Аниме.md",
     "Микро вики",
     "Аниме",
     "Без названия 1.md",
