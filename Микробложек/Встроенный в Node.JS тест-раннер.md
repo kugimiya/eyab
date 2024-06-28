@@ -1,9 +1,9 @@
-В 20й версии [[Node.JS]] нам принесли стабильный [[тест-раннер]]. Вот анонс, например: [Node.js — Node.js 20 is now available!](https://nodejs.org/en/blog/announcements/v20-release-announce#stable-test-runner)
+В 20й версии [[Node.JS]] нам принесли стабильный [[Test Runner]]. Вот анонс, например: [Node.js — Node.js 20 is now available!](https://nodejs.org/en/blog/announcements/v20-release-announce#stable-test-runner)
 
 Ящитаю, что это своего рода gamechanger:
 - больше не надо ставить [[Jest]], [[Mocha]], [[Chai]], etc
 - теперь жэст, моку, чай, etc можно смело выкидывать
-- всё, что надо для [[unit-testing]] теперь с нами
+- всё, что надо для [[Unit Testing]] теперь с нами
 
 Как запускать новый тест-раннер? Оч просто: `node --test dist`, где флаг `--test` запускает ноду в режиме тест-раннера, а параметр `dist` указывает в какой директории нода должна рекурсивно ([[Рекурсия]]) искать файлы с тестами. Ещё есть флаг `--experimental-test-coverage` , включает подсчёт покрытия кода тестами (об этом флаге чуть позже).
 
